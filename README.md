@@ -9,8 +9,8 @@ Use the controler to modify the Css code.
 ## Demo
 
 ## [Css Controler](https://danielgarciaguillen.github.io/playingcss/)
-![Css Controler](/image/playingcss.png?raw=true "CssClock")
 
+![Css Controler](/image/playingcss.png?raw=true "CssClock")
 
 ## Learnings
 
@@ -24,6 +24,5 @@ Use the controler to modify the Css code.
 ## Built With
 
 * Vanilla Javascript
-* Css
-* Html
-
+* CSS
+* HTML
